@@ -1,0 +1,6 @@
+{
+  "name": "PM-AJAY AI Voice Assistant & Skilling Portal",
+  "description": "AI-driven multilingual voice assistant for livelihood mapping and NSQF-aligned skilling recommendations for SC communities under the GIA component of PM-AJAY (SIH 26097, MoSJE).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
